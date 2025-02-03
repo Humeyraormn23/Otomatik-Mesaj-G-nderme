@@ -2,7 +2,7 @@ import pywhatkit
 import datetime
 import time
 
-to_number = "+905399618855"
+to_number = "+number"
 send_time = ("07:00")
 msg = ("ERKEK MİLLETİNE İNANMA")
 
