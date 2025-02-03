@@ -4,7 +4,7 @@ import time
 
 to_number = "+number"
 send_time = ("07:00")
-msg = ("ERKEK MİLLETİNE İNANMA")
+msg = ("AUTOMATED MESSAGE")
 
 send_time_hour = int(send_time.split(":")[0])
 send_time_minute = int(send_time.split(":")[1])
